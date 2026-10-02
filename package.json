@@ -1,0 +1,17 @@
+{
+  "name": "pappuchan-afk-bot",
+  "version": "1.0.0",
+  "description": "24/7 Minecraft AFK bot with jokes and Groq AI for AshSMP",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "dependencies": {
+    "bad-words": "^4.1.5",
+    "mineflayer": "^4.39.0",
+    "prismarine-chat": "^1.13.0",
+    "prismarine-nbt": "^2.6.0"
+  }
+}
